@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135863654283",
+    "firebase_url": "https://treecam-5c280.firebaseio.com",
+    "project_id": "treecam-5c280",
+    "storage_bucket": "treecam-5c280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135863654283:android:e06ab8c385aef44107c18e",
+        "android_client_info": {
+          "package_name": "com.example.treecam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135863654283-olm0b3dv59dveemhg0t6d988qq7f85eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.treecam",
+            "certificate_hash": "c86553dcfcd0bd34539680c20133ad6536ae6fd8"
+          }
+        },
+        {
+          "client_id": "135863654283-80t86e0kgrnaki5dekgpltihrvhcerg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbnnb7ahNqUIfZp6c22S6FGOrEgxxalQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135863654283-80t86e0kgrnaki5dekgpltihrvhcerg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
